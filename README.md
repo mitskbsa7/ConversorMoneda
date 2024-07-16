@@ -1,19 +1,19 @@
 # conversorDeMonedas
-##### Introducción
+###### Introducción
 
 Este proyecto presenta un sencillo convertidor de monedas que permite a los usuarios realizar conversiones entre diferentes divisas utilizando una API externa. El código está escrito en Java y emplea la biblioteca Gson para manejar las respuestas JSON.
 
-##### Funcionalidades:
+###### Funcionalidades:
 
 Conversión entre USD y otras divisas (ARS, BRL, COP, MXN) Interfaz de usuario simple para ingresar la cantidad y la moneda de origen Manejo de errores para solicitudes API fallidas o datos no válidos
 
-##### Requisitos:
+###### Requisitos:
 
 -Java instalado
 
 -Biblioteca Gson
 
-##### Instrucciones de uso:
+###### Instrucciones de uso:
 
 ###### 1-Clonar el repositorio:
 
@@ -47,11 +47,11 @@ Seleccione la clase com.example.convertidormonedas.Main como la clase principal 
 
 Haga clic en **"Run"` para ejecutar el convertidor de monedas.
 
-##### Uso del convertidor:
+###### Uso del convertidor:
 
 Siga las instrucciones en pantalla para ingresar la cantidad que desea convertir y la moneda de origen. El programa calculará la conversión y la mostrará en pantalla.
 
-##### Ejemplo de uso:
+###### Ejemplo de uso:
 
 Bienvenido(a) a nuestro Conversor de Divisas
 
@@ -84,15 +84,15 @@ La conversión de 100 USD a ARS es: 838.50
 
 Gracias por hacer uso de nuestro servicio. ¡Excelente dia, esperamos vuelva pronto!
 
-##### Contribuciones:
+###### Contribuciones:
 
 Se aprecian contribuciones y sugerencias para mejorar este proyecto. Puede abrir issues en el repositorio de GitHub o enviar solicitudes de pull con sus cambios.
 
-##### Licencia:
+###### Licencia:
 
 Este proyecto está licenciado bajo la licencia MIT.
 
-##### Recursos:
+###### Recursos:
 
 API Exchangerate
 
