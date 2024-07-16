@@ -17,7 +17,7 @@ Conversión entre USD y otras divisas (ARS, BRL, COP, MXN) Interfaz de usuario s
 
 ###### 1-Clonar el repositorio:
 
-git clone https://github.com/mitskbsa7
+git clone [https://github.com/mitskbsa7](https://github.com/mitskbsa7/ConversorMoneda) 
 
 ###### 2-Importar el proyecto en IntelliJ:
 
